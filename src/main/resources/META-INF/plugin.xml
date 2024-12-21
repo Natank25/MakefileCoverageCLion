@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.natank25.makefilecoverageclion</id>
-    <name>MakefileCoverageCLion</name>
+    <id>com.github.natank25.makefilecoverage</id>
+    <name>Coverage for Makefile</name>
     <vendor>Natank25</vendor>
 
     <depends>com.intellij.modules.platform</depends>

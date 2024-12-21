@@ -1,4 +1,4 @@
-package com.github.natank25.makefilecoverageclion
+package com.github.natank25.makefilecoverage
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
